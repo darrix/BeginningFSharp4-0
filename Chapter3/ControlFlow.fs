@@ -32,3 +32,5 @@ let result3 =
         box false
         
 printfn "%A" result3
+
+printfn "%s" "This is a test"
